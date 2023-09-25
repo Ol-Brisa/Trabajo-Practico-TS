@@ -1,3 +1,3 @@
 # Trabajo-Practico-TS
-##Descargar carpeta
-##abrir index.html
+### Descargar carpeta completa
+### Abrir index.html
